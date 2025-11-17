@@ -53,16 +53,6 @@ Performed using **Power Query**:
 
 ---
 
-## 🧮 DAX Measures Used
-Some of the important DAX measures created:
-```DAX
-Total Sales = SUM(Sales[Sales Amount])
-
-Total Profit = SUM(Sales[Profit])
-
-Total Quantity = SUM(Sales[Quantity])
-
-
 Dash Board Preview
 <img width="1536" height="1024" alt="dashboard image" src="https://github.com/user-attachments/assets/3139b6b9-5ef0-4972-86dd-e45f517a298d" />
 
